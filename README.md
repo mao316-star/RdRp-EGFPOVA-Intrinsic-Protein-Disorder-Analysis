@@ -1,4 +1,4 @@
-# RdRp EGFPOVA Intrinsic Protein Disorder Analysis
+# RdRp EGFPOVA AlphaFold 3 Intrinsic Protein Disorder Analysis
 
 ## Overview
 
