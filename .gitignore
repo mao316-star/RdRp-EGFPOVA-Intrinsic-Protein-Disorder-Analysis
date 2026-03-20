@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+*.swp
+*.swo
+
+# Large raw AlphaFold data (1.5 GB) - exclude from GitHub
+data/alphafold_raw_data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.log
+protein_analysis/
