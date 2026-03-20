@@ -1,4 +1,4 @@
-# RdRp-EGFPOVA-Intrinsic-Protein-Disorder-Analysis
+# RdRp EGFPOVA Intrinsic Protein Disorder Analysis
 
 ## Overview
 
