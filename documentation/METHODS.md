@@ -235,5 +235,5 @@ All analyses are fully reproducible:
 
 1. Jumper et al. (2021). Highly accurate protein structure prediction with AlphaFold2. Nature 596: 583-589.
 2. Mészáros et al. (2018). IUPred3: Prediction of intrinsically disordered regions. NAR 46: W54-W62.
-3. Jones et al. (1999). Protein secondary structure prediction based on position-specific scoring matrices. J Mol Biol 292(2): 195-202.
+3. Jones, D.T. and Cozzetto, D. "DISOPRED3: precise disordered region predictions with annotated protein-binding activity." Bioinformatics 31.6 (2015): 857–863.
 4. Hanson et al. (2019). Accurate type III secretion system substrate prediction using machine learning. Nature Communications 10: 1859.
